@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1679844156 source:c:\codeblock and sdl\cho doanh ngu\bot.cpp
+	"bot.h"
+
+1678500364 c:\codeblock and sdl\cho doanh ngu\bot.h
+
+1681392211 source:c:\codeblock and sdl\cho doanh ngu\xo.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"bot.h"
+
+1681997634 source:c:\codeblock and sdl\xo\bot.cpp
+	"bot.h"
+	<SDL.h>
+	<SDL_mixer.h>
+
+1678500364 c:\codeblock and sdl\xo\bot.h
+
+1682946794 source:c:\codeblock and sdl\xo\xo\menu.cpp
+
+1682124848 source:c:\codeblock and sdl\xo\xo.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"bot.h"
+	<SDL_mixer.h>
+
+1681825889 source:c:\codeblock and sdl\xo - copy\bot.cpp
+	"bot.h"
+	<SDL.h>
+	<SDL_mixer.h>
+
+1678500364 c:\codeblock and sdl\xo - copy\bot.h
+
+1681842481 source:c:\codeblock and sdl\xo - copy\xo.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"bot.h"
+	<SDL_mixer.h>
+
+1681518317 source:c:\codeblock and sdl\xo - copy\xo\menu.cpp
+
