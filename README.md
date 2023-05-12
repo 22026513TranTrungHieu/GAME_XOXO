@@ -25,19 +25,9 @@ c) Hướng dẫn chơi + đồ họa game 💯
    Màn hình game:
    
    
-   ![image](https://github.com/1311hz/GameCpp/assets/121456765/11a85f7d-4619-48b9-ab7f-1d679105c348)
-  
-  
-   Chơi game:
+   ![image](https://github.com/22026513TranTrungHieu/GAME_XOXO/blob/main/XO/Menu/m%C3%B4%20t%E1%BA%A3.jpg)
    
-   
-   ![image](https://github.com/1311hz/GameCpp/assets/121456765/06cabba1-8265-4852-8efd-65a1e7fdcbfc)
   
-  
-   Kết thúc game:
-   
-   
-   ![image](https://github.com/1311hz/GameCpp/assets/121456765/73e955ff-528e-41ab-809e-0bef491d0eec)
 
    
     
