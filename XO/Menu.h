@@ -7,14 +7,22 @@
 
 class menu{
 public:
-    menu(const char* path);
+    menu();
     ~menu() {};
 
-    int MenuRender();
+    int MenuRender(SDL_Renderer *gRenderer);
+    void init();
+    bool endgame()
+    {
+        return quit;
+    }
+    SDL_Texture* texture;
 
 protected:
     SDL_Rect mod[3];
     SDL_Rect IMGRect = {0,0,600,600};
-    SDL_Texture texture;
+
+private:
+    bool quit;
 };
 

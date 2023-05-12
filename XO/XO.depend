@@ -19,7 +19,8 @@
 
 1678500364 c:\codeblock and sdl\xo\bot.h
 
-1682946794 source:c:\codeblock and sdl\xo\xo\menu.cpp
+1683802166 source:c:\codeblock and sdl\xo\xo\menu.cpp
+	"Menu.h"
 
 1682124848 source:c:\codeblock and sdl\xo\xo.cpp
 	<SDL.h>
@@ -47,4 +48,29 @@
 	<SDL_mixer.h>
 
 1681518317 source:c:\codeblock and sdl\xo - copy\xo\menu.cpp
+
+1683802166 c:\codeblock and sdl\xo\xo\menu.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<SDL_mixer.h>
+
+1683824666 source:c:\codeblock and sdl\xo\xo\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"bot.h"
+	"Menu.h"
+	<SDL_mixer.h>
+
+1683798599 c:\codeblock and sdl\xo\xo\bot.h
+
+1683798605 source:c:\codeblock and sdl\xo\xo\bot.cpp
+	"bot.h"
+
+1683797845 c:\codeblock and sdl\xo\xo\bot1.h
 
